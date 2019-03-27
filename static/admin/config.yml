@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
-  branch: master
+  # name: git-gateway
+  # branch: master
+  name: github
+  repo: jmdejongh/jmdejongh-gatsby # Path to your GitHub repository
 
 media_folder: static/img
 public_folder: /img
